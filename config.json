@@ -1781,6 +1781,11 @@
       "uuid": "a960da78-c940-4725-8069-929f42564cdb"
     },
     {
+      "name": "Functions",
+      "slug": "functions",
+      "uuid": "09e0a516-cddf-4f16-b62b-92a7fdf6da35"
+    },
+    {
       "name": "Iteration",
       "slug": "iteration",
       "uuid": "e18ca160-bbb8-4cd0-882a-0e67f1e60b47"

@@ -1,0 +1,9 @@
+{
+    "authors": ["jmrunkle"],
+    "files": {
+      "solution": ["lasagna_expert.go"],
+      "test": ["lasagna_expert_test.go"],
+      "exemplar": [".meta/exemplar.go"]
+    },
+    "blurb": "Learn more about functions in Go as the lasagna expert in Gopher's kitchen"
+  }
